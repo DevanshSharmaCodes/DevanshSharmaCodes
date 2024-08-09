@@ -18,8 +18,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DevanshSharmaCodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🐍 Watch a snake eating my contributions: 
-
+### 🐍 Check out this animated snake devouring my GitHub contributions!
 ![snake gif](https://github.com/DevanshSharmaCodes/DevanshSharmaCodes/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
