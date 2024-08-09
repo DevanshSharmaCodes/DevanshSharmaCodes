@@ -18,7 +18,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DevanshSharmaCodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![Snake animation](https://github.com/DevanshSharmaCodes/DevanshSharmaCodes/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevanshSharmaCodes&icon=0&color=0)](https://visitcount.itsvg.in)
